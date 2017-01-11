@@ -1,5 +1,6 @@
 
-public interface WheatMix {
+public interface WheatMix
+{
 	
 	public void mixBatter();
 	

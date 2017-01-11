@@ -1,3 +1,5 @@
+package SingleInheritance;
+
 //Single inheritance
 public class Company 
 {
